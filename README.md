@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Luiz Fernando Santos Langa
+Matricula: 1597385 
 
 ## Tela de inspeção com navegador
-
+![alt text](print1diw.PNG)
 
 ## Tela de projeto no Replit
-
+![alt text](print2diw.PNG)
