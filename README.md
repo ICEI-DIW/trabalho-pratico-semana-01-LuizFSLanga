@@ -4,10 +4,10 @@
 
 ## Informações Gerais
 Nome: Luiz Fernando Santos Langa
-Matricula: 1597385 
+Matricula: 1597385
 
 ## Tela de inspeção com navegador
-![alt text](print1diw.PNG)
+![alt text](printNavegador.PNG)
 
 ## Tela de projeto no Replit
-![alt text](print2diw.PNG)
+![alt text](printReplit.PNG)
